@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace practice
+namespace practice.Strings
 {
     public class StringPalindrome
     {
